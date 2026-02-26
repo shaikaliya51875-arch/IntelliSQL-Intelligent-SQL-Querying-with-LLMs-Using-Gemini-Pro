@@ -6,10 +6,15 @@ A small Python project providing a compact starting point for working with SQL f
 
 ## Key Features
  Natural Language → SQL Conversion
+ 
  Intelligent Query Assistance
+ 
  SQLite Database Integration
+ 
  Secure Google API Key Handling (.env)
+ 
  Streamlit-Based User Interface
+ 
  Modular Project Architecture
 
 ## Requirements
