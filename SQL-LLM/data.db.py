@@ -1,7 +1,7 @@
 import sqlite3
 
 ## Connectt to SQlite
-conn=sqlite3.connect("datt.db")
+conn=sqlite3.connect("data.db")
 
 # Create a cursor object to insert record,create table
 
@@ -29,3 +29,4 @@ for row in data:
 ## Commit your changes int he databse
 conn.commit()
 conn.close()
+
